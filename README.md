@@ -35,3 +35,5 @@
 <code><img height="30" src="https://i.pinimg.com/originals/87/bd/39/87bd39372d14ae2acda0121d9bc69d9c.png"></code>
 <code><img height="30" src="https://styles.redditmedia.com/t5_22y58b/styles/communityIcon_r5ax236rfw961.png?width=256&s=303cdd56ee4488ae35ace0f906479812592900e6"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>  
+
+<img src="https://github-readme-stats.vercel.app/api?username=MitanshuShaBa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Mitanshu Stats">
