@@ -1,6 +1,6 @@
 <h1 align="center"> Hi There 👋 </h1>
 
-- 🌱 I’m currently learning MLOps 
+- 🌱 I’m currently learning DSA, MLOps 
 - 💬 Ask me about ML, AI, Data Science, Web Development, Design
 - 📫 How to reach me: [Mitanshu Reshamwala](https://www.linkedin.com/in/rmitanshu-0111/)
 
